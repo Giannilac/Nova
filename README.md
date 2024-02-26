@@ -1,5 +1,5 @@
 # Nova
-PaxOS 8 is the latest version of PaxOS, a lightweight operating system for PaxoPhones.
+NovaOS1 is the latest version of NovaOS, a lightweight operating system for NovaPhones.
 
 Build Instructions
 Linux
